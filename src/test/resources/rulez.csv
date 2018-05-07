@@ -1,0 +1,11 @@
+code;issuer;length;
+4;Visa;16;
+51;Master Card;16;
+52;Master Card;16;
+53;Master Card;16;
+54;Master Card;16;
+55;Master Card;16;
+34;American Express;15;
+37;American Express;15;
+62;China UnionPay;16;
+
